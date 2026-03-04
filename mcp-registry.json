@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "servers": [
+    {
+      "id": "nordic-devzone",
+      "name": "Nordic DevZone Documentation",
+      "description": "Read-only documentation assistant for Nordic Semiconductor nRF SDK",
+      "url": "https://nordicsemi.mcp.kapa.ai/",
+      "type": "http"
+    }
+  ]
+}
